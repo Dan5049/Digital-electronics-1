@@ -1,5 +1,10 @@
 # Labs/01-gates
 
+## GitHub Link
+[GitHub - Daniel Havránek (Dan5049)](https://github.com/Dan5049/Digital-electronics-1)
+
+<br>
+
 ## De Morgan's Laws
 
 ### Function Table
@@ -128,7 +133,7 @@ end architecture dataflow;
 ### Picture
 ![Boolean postulates and Distributive laws](images/PostulatesDistributive.jpg)
 
-<be>
+<br>
 
 ### Link
 [EDA Plauground](https://www.edaplayground.com/x/WAYT)

@@ -76,7 +76,7 @@ end architecture dataflow;
 
 <br>
 
-## Distribudiv Functions
+## Distributive Functions
 
 ### Code
 ```vhdl

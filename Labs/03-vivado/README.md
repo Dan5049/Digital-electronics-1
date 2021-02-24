@@ -26,7 +26,7 @@
 
 <br>
 
-### Cennection table - Nexys A7-50T
+### Connection table - Nexys A7-50T
 
 | **Switch name** | **FPGA pin** | **FPGA package pin** |
 | :-: | :-: | :-: |

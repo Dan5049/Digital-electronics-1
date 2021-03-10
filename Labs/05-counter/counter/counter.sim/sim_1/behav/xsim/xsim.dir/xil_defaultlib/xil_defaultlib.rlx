@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Skola/counter/counter.srcs/sim_1/new/tb_clock_enable.vhd,1615379144,vhdl,,,,tb_clock_enable,,,,,,,,
+D:/Skola/counter/counter.srcs/sim_1/new/tb_cnt_up_down.vhd,1615384380,vhdl,,,,tb_cnt_up_down,,,,,,,,
+D:/Skola/counter/counter.srcs/sources_1/new/clock_enable.vhd,1615379144,vhdl,D:/Skola/counter/counter.srcs/sim_1/new/tb_clock_enable.vhd,,,clock_enable,,,,,,,,
+D:/Skola/counter/counter.srcs/sources_1/new/cnt_up_down.vhd,1615384158,vhdl,D:/Skola/counter/counter.srcs/sim_1/new/tb_cnt_up_down.vhd,,,cnt_up_down,,,,,,,,

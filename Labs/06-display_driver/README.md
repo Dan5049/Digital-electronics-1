@@ -1,4 +1,4 @@
-# Labs/04-labs
+# Labs/06-labs
 
 ## GitHub Link
 [GitHub - Daniel Havránek (Dan5049)](https://github.com/Dan5049/Digital-electronics-1)

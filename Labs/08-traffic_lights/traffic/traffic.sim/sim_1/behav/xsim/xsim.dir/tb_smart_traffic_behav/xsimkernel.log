@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_smart_traffic_behav/xsimk.exe -simmode gui -wdb tb_smart_traffic_behav.wdb -simrunnum 0 -socket 51790
+Design successfully loaded
+Design Loading Memory Usage: 5780 KB (Peak: 5780 KB)
+Design Loading CPU Usage: 30 ms

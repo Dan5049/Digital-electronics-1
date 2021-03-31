@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/Skola/traffic_light/traffic/traffic.srcs/sim_1/new/tb_smart_traffic.vhd,1617196887,vhdl,,,,tb_smart_traffic,,,,,,,,
+D:/Skola/traffic_light/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd,1617196558,vhdl,,,,tb_tlc,,,,,,,,
+D:/Skola/traffic_light/traffic/traffic.srcs/sources_1/new/smart_traffic.vhd,1617197806,vhdl,D:/Skola/traffic_light/traffic/traffic.srcs/sim_1/new/tb_smart_traffic.vhd,,,smart_traffic,,,,,,,,
+D:/Skola/traffic_light/traffic/traffic.srcs/sources_1/new/tlc.vhd,1617196519,vhdl,D:/Skola/traffic_light/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd,,,tlc,,,,,,,,
